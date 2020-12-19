@@ -13,7 +13,7 @@ $(document).keypress( function(){
 	}
 })
 
-$("head-cls").on("click", function(){
+$(".head-cls").on("click", function(){
 	if(!start)
 	{
 		start=true;
